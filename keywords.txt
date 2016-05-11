@@ -1,0 +1,8 @@
+ColorRgbw	KEYWORD1
+ColorRgb	KEYWORD1
+ColorConvert	KEYWORD1
+setWhiteEquiv	KEYWORD2
+setRgbWhiteEquiv	KEYWORD2
+setOverdrive	KEYWORD2
+rgbToRgbw	KEYWORD2
+getMaxUnstretchedOverdrive	KEYWORD2
